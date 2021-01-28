@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home-task-L16</string>
+    <string name="nameOfCountry">Name</string>
+    <string name="populationOfCountry">Population</string>
+    <string name="areaOfCountry">Area</string>
+    <string name="densityOfCountry">Density</string>
+</resources>
